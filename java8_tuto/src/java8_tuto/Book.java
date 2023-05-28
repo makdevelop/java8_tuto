@@ -15,5 +15,9 @@ public class Book {
     public void deleteBook(){
         System.out.println("Book deleted !!!");
     }
+
+    public void editBook(){
+        System.out.println("Book edited !!!");
+    }
     
 }

@@ -15,4 +15,8 @@ public class Bib {
     public void getListBook(){
         System.out.println("book bib");
     }
+
+    public void deleteBiB(){
+        System.out.println("DELETE bib");
+    }
 }

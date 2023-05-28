@@ -12,4 +12,7 @@ public class Bib {
         System.out.println("book bib");
     }
     
+    public void getListBook(){
+        System.out.println("book bib");
+    }
 }

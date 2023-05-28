@@ -11,5 +11,7 @@ public class Book {
     public void addBook(){
         System.out.println("book added");
     }
-    
+    public void getListBook(){
+        System.out.println("book bib");
+    }
 }
